@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![https://www.vnzmi.com/img/icwt1.png](https://www.vnzmi.com/img/icwt1.png)
 <!--
 **vincentmi/vincentmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
